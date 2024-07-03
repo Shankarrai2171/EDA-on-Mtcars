@@ -15,7 +15,7 @@ corrplot 📈
 #### Name: mtcars
 #### Source: Motor Trend US magazine
 #### Date: 1974
-## Observation :
+## Dataset Dimmmension :
 ### Total Columns: 11 variable, represents specific attributes or measurements related to different car models.
 ### Total Rows: 32 rows, each representing a different car model.
 
