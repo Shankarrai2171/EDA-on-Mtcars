@@ -73,3 +73,4 @@ corrplot 📈
 ## Scatter Plots
 ### Scatter plots are useful for visualizing the relationship between two numerical variables. For example, you can examine how mpg (Miles per gallon) relates to hp (Horsepower) or wt (Weight of the car).
 
+![scatterplot](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/a2605e20-65bb-41c1-8682-beec2e31878a)
