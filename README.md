@@ -60,3 +60,7 @@ corrplot 📈
 #### No Correlation: Close to 0 indicates no linear relationship between the variables.
 ![analysisnew](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/42fe1331-12c4-41bd-948e-37a51f4db4cb)
 
+## Data Visualization:
+
+
+
