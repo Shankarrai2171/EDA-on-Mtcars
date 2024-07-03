@@ -17,6 +17,7 @@ corrplot 📈
 #### 11 variables and 32 rows
 ![head()](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/c16b22f6-5fb8-409c-8dec-558670847faa)
 ## Variables Contains in mtcars:
+### Describing the alias names of variables:
 #### mpg: Miles/(US) gallon
 #### cyl: Number of cylinders
 #### disp: Displacement (cu.in.)
