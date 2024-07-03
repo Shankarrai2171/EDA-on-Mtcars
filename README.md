@@ -53,5 +53,10 @@ corrplot 📈
 #### Data analysis is a dynamic process that involves exploring, interpreting, and drawing insights from data to solve problems, make informed decisions.
 
 ### Correlation Analysis
+#### The correlation matrix corr_matrix will be a square matrix where each cell represents the correlation coefficient between two variables. Here’s how to interpret it:
+#### Values: Correlation coefficients range from -1 to 1:
+#### Positive Correlation: Close to +1 indicates a strong positive relationship (as one variable increases, the other tends to increase).
+#### Negative Correlation: Close to -1 indicates a strong negative relationship (as one variable increases, the other tends to decrease).
+#### No Correlation: Close to 0 indicates no linear relationship between the variables.
 ![analysis](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/780ddcc0-63c4-4354-9e66-082e8ef1374b)
 
