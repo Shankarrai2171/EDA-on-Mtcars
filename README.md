@@ -58,5 +58,5 @@ corrplot 📈
 #### Positive Correlation: Close to +1 indicates a strong positive relationship (as one variable increases, the other tends to increase).
 #### Negative Correlation: Close to -1 indicates a strong negative relationship (as one variable increases, the other tends to decrease).
 #### No Correlation: Close to 0 indicates no linear relationship between the variables.
-![analysis](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/780ddcc0-63c4-4354-9e66-082e8ef1374b)
+![analysisnew](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/42fe1331-12c4-41bd-948e-37a51f4db4cb)
 
