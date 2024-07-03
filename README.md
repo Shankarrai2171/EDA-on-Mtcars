@@ -44,6 +44,9 @@ corrplot 📈
 ### Counting the each unique values:
 ![count_unique](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/b0cac426-3778-4123-9314-7dbe2d64b828)
 ## Handling Missing values:
-
+### The is.na() function returns a logical vector indicating TRUE for elements that are missing (NA) and FALSE otherwise.
+### You can use this function to check for missing values in a dataset or a specific column. 
+### As we got the the output of False means, this dataset doesn't contain any missing value, So if the output is True also we can handle missing value with mean() and median() for Numerical variables and mode() for Categorical variable
+![missingvalues](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/80f99462-46a6-48c3-aed3-ad3deef245a5)
 
 
