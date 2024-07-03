@@ -62,8 +62,8 @@ corrplot 📈
 
 ## Data Visualization:
 ### Visualizing the mtcars dataset can provide insightful representations of the relationships between different car attributes.
-
-### Detecting outliers in a dataset is essential for identifying data points that deviate significantly from the majority of observations. Several types of plots can help visualize and detect outliers effectively:
+## Detecting outliers:
+### Detecting outliers in a dataset is essential for identifying data points that deviate significantly from the majority of observations.
 ## Box Plot (Box-and-Whisker Plot)
 ### Box plots display the distribution of data: minimum, first quartile (Q1), median (Q2), third quartile (Q3), and maximum. Outliers are typically identified as points beyond the whiskers (1.5 times the interquartile range (IQR) from Q1 and Q3).
 ### Box plots are useful for comparing distributions across categories or variables and visually identifying data points that lie outside the expected range. Here we don't have any Outliers.
