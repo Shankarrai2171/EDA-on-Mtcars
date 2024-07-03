@@ -39,9 +39,9 @@ corrplot 📈
 ### Statistical Summary:
 #### For Numerical Variables: summary() computes summary statistics such as minimum, 1st quartile (Q1), median (Q2), mean, 3rd quartile (Q3), and maximum values for each numerical variable in the dataset. It also provides the number of non-missing values (NA counts are omitted) and the summary() function provides a quick statistical overview of numerical variables, making it a fundamental tool for initial data exploration, quality assessment, and understanding the characteristics of the dataset before proceeding with further analysis or modeling.
 ![summary](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/202db2ec-719e-437e-9c28-e6f5e9e8019a)
-## Checking the unique values in Dataset for each variable :
+### Checking the unique values in Dataset for each variable :
 ![unique value for each col](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/2118def7-150a-4279-9df4-321a50c20015)
-## Conunting the each unique values:
+### Counting the each unique values:
 ![count_unique](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/b0cac426-3778-4123-9314-7dbe2d64b828)
 
 
