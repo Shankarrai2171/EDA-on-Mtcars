@@ -15,8 +15,8 @@ corrplot 📈
 #### Source: Motor Trend US magazine
 #### Date: 1974
 ## Observation :
-Total Columns: 11 variable, represents specific attributes or measurements related to different car models.
-Total Rows: 32 rows, each representing a different car model.
+### Total Columns: 11 variable, represents specific attributes or measurements related to different car models.
+### Total Rows: 32 rows, each representing a different car model.
 
 ![head()](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/c16b22f6-5fb8-409c-8dec-558670847faa)
 ## Variables Contains in mtcars:
