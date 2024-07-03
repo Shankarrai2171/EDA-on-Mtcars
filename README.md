@@ -67,16 +67,20 @@ corrplot 📈
 ## Box Plot (Box-and-Whisker Plot)
 ### Box plots display the distribution of data: minimum, first quartile (Q1), median (Q2), third quartile (Q3), and maximum. Outliers are typically identified as points beyond the whiskers (1.5 times the interquartile range (IQR) from Q1 and Q3).
 ### Box plots are useful for comparing distributions across categories or variables and visually identifying data points that lie outside the expected range. Here we don't have any Outliers.
+### boxplot(mtcars$mpg, main = "Box Plot of mpg", ylab = "Miles per gallon")
 
 ![Boxplot](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/6eaee2c7-37d0-4781-8dfb-fb12324b7d46)
 
 ## Scatter Plots
 ### Scatter plots are useful for visualizing the relationship between two numerical variables. For example, you can examine how mpg (Miles per gallon) relates to hp (Horsepower) or wt (Weight of the car).
 ### Generally, as the weight (wt) of the car increases, the fuel efficiency (mpg) tends to decrease. This negative relationship suggests that heavier cars typically consume more fuel per mile traveled compared to lighter cars.
-
+### plot(mtcars$hp, mtcars$mpg, xlab = "Horsepower", ylab = "Miles per gallon", main = "Scatter Plot: mpg vs. hp")
 ![scatterplot](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/a2605e20-65bb-41c1-8682-beec2e31878a)
 
 ## Histogram
 ### The histogram of mpg in the mtcars dataset is a straightforward visualization that provides a clear representation of how fuel efficiency is distributed among the cars. It serves as a foundational tool for exploring the data distribution and identifying any patterns or anomalies related to miles per gallon in the dataset.
+### hist(mtcars$mpg, main = "Histogram of mpg", xlab = "Miles per gallon")
 
 ![Histo](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/e1cfad46-e6ca-4683-b1f4-f5e6e981c387)
+
+## Pair plot
