@@ -32,3 +32,13 @@ corrplot 📈
 #### am: Transmission (0 = automatic, 1 = manual)
 #### gear: Number of forward gears
 #### carb: Number of carburetors
+## Summary() function provides a concise statistical summary of numerical variables in a dataset. Here's what the summary() function typically represents and how it is used:
+## Purpose of Summary() Function
+### Statistical Summary:
+#### For Numerical Variables: summary() computes summary statistics such as minimum, 1st quartile (Q1), median (Q2), mean, 3rd quartile (Q3), and maximum values for each numerical variable in the dataset. It also provides the number of non-missing values (NA counts are omitted) and the summary() function provides a quick statistical overview of numerical variables, making it a fundamental tool for initial data exploration, quality assessment, and understanding the characteristics of the dataset before proceeding with further analysis or modeling.
+
+
+
+
+
+
