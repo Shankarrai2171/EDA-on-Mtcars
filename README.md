@@ -61,6 +61,17 @@ corrplot 📈
 ![analysisnew](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/42fe1331-12c4-41bd-948e-37a51f4db4cb)
 
 ## Data Visualization:
+### Visualizing the mtcars dataset can provide insightful representations of the relationships between different car attributes.
 
+### Detecting outliers in a dataset is essential for identifying data points that deviate significantly from the majority of observations. Several types of plots can help visualize and detect outliers effectively:
+## Box Plot (Box-and-Whisker Plot)
+### Box plots display the distribution of data: minimum, first quartile (Q1), median (Q2), third quartile (Q3), and maximum. Outliers are typically identified as points beyond the whiskers (1.5 times the interquartile range (IQR) from Q1 and Q3).
+### Box plots are useful for comparing distributions across categories or variables and visually identifying data points that lie outside the expected range.
+![Boxplot](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/6eaee2c7-37d0-4781-8dfb-fb12324b7d46)
+
+
+## Scatter Plots
+### Scatter plots are useful for visualizing the relationship between two numerical variables. For example, you can examine how mpg (Miles per gallon) relates to hp (Horsepower) or wt (Weight of the car).
+![Boxplot](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/d7c966ea-b530-4594-864d-611051f2b0c4)
 
 
