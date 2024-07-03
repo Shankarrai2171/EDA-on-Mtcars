@@ -41,3 +41,9 @@ corrplot 📈
 ![summary](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/202db2ec-719e-437e-9c28-e6f5e9e8019a)
 ## Checking the unique values in Dataset for each variable :
 ![unique value for each col](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/2118def7-150a-4279-9df4-321a50c20015)
+## Conunting the each unique values:
+![count_unique](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/b0cac426-3778-4123-9314-7dbe2d64b828)
+
+
+
+
