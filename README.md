@@ -84,3 +84,7 @@ corrplot 📈
 ![Histo](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/e1cfad46-e6ca-4683-b1f4-f5e6e981c387)
 
 ## Pair plot
+### The "pairs" function is used to create a matrix of scatterplots for exploring pairwise relationships between variables in a dataset.
+### paris(mtcars)
+
+![Rplot](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/beebfc0e-2c90-4061-a4e2-923c52604f52)
