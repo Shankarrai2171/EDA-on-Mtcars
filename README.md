@@ -49,4 +49,9 @@ corrplot 📈
 ### As we got the the output of False means, this dataset doesn't contain any missing value, So if the output is True also we can handle missing value with mean() and median() for Numerical variables and mode() for Categorical variable
 ![missingvalues](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/80f99462-46a6-48c3-aed3-ad3deef245a5)
 
+## Data Analysis:
+#### Data analysis is a dynamic process that involves exploring, interpreting, and drawing insights from data to solve problems, make informed decisions.
+
+### Correlation Analysis
+![analysis](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/780ddcc0-63c4-4354-9e66-082e8ef1374b)
 
