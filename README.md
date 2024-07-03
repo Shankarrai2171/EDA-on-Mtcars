@@ -14,6 +14,7 @@ corrplot 📈
 #### Name: mtcars
 #### Source: Motor Trend US magazine
 #### Date: 1974
+![head()](https://github.com/Shankarrai2171/EDA-on-Mtcars/assets/164284515/c16b22f6-5fb8-409c-8dec-558670847faa)
 ## Variables Contains in mtcars:
 #### mpg: Miles/(US) gallon
 #### cyl: Number of cylinders
